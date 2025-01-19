@@ -22,3 +22,4 @@ To run tests, run the following command
 
 
 You most be use two terminal to run this program.
+First Run sender program then receiver
